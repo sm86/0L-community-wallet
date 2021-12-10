@@ -17,3 +17,7 @@ The repository contains two files contributors.json and payments.json. Community
 ## Hustle Karma Use Case
 
 To be able to track mapping between Hustle Karma members 0L address and personal details for online accounts like Twitter, Discord and Email.
+
+## References
+
+[BlockScience Documentation](https://github.com/BlockScience/deep-technology-innovation-program)
