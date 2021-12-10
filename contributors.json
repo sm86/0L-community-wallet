@@ -1,0 +1,10 @@
+{"account":<account>,
+    "type":0,
+    "details":{
+        'githubId':<str>,
+        'discordId':<str>,
+        'twitterId':<str>,
+        'gdocsId':<str>
+        }
+    }
+    

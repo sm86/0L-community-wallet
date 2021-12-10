@@ -1,0 +1,3 @@
+{"transaction":<transactionHash>,
+    "type":<int>,
+    "details":<dict>}

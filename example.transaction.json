@@ -1,0 +1,25 @@
+{
+    "transaction":<0xTBD>,
+    "type":<1>,
+    "details":
+        {
+        "memo": "Karma Hustle bounty for completing the first batch of missions in the analytics project, specifically making permission tree data accessible.",
+        "missions":
+            [
+                {
+                'recordURL':'https://airtable.com/appuiDshjiBzOAGl2/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/rec4D7I4k2KS4ytt5',
+                'author':<mZ's account here>,
+                'worker':<gnuAndrew's account here>,
+                'reviewer':<B's acccount here>,
+                'artifacts':[<github link to code>]
+                },
+                ...,
+                'recordURL':'https://airtable.com/appuiDshjiBzOAGl2/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/recXtnhbiUpaBMKQx?blocks=hide',
+                'author':<mZ's account here>,
+                'worker':<gnuAndrew's account here>,
+                'reviewer':<B's acccount here>,
+                'artifacts':[<github link to code>]
+                }
+            ]
+        }
+    }
