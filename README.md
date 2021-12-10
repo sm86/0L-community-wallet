@@ -3,7 +3,7 @@
 
 ## About
 
-This is an initial template based upon the ideas presented in the (Reporting Standards for Community Wallets)[https://hackmd.io/MKskCuXbQT2t9s8lou_GKQ?view] Document. The document covers the use case and motivation regarding providing transparency requirements of Community Wallets operating on the 0L blockchain.
+This is an initial template based upon the ideas presented in the [Reporting Standards for Community Wallets](https://hackmd.io/MKskCuXbQT2t9s8lou_GKQ?view) Document. The document covers the use case and motivation regarding providing transparency requirements of Community Wallets operating on the 0L blockchain.
 
 
 ## Implemtation
