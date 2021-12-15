@@ -1,10 +1,10 @@
-{"account":<account>,
+{"account":"ECAAAA25DA567AD3FC0044E03FE0B330",
     "type":0,
     "details":{
-        'githubId':<str>,
-        'discordId':<str>,
-        'twitterId':<str>,
-        'gdocsId':<str>
+        'githubId':"sm86",
+        'discordId':"sm86#4095",
+        'twitterId':"sh1sh1nk",
+        'gdocsId':""
         }
     }
     
